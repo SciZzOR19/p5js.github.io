@@ -8,9 +8,9 @@ let score1=0;
 let score2=0;
 
 
-function preload(){
-    bimg=loadImage('bimg.jpg')
-}
+// function preload(){
+//     bimg=loadImage('bimg.jpg')
+// }
 function setup(){
     createCanvas(400,400)
     rectMode(CENTER)
