@@ -19,7 +19,7 @@ function setup(){
     b= new Ball()
 }
 function draw(){
-    background(bimg)
+//     background(bimg)
     lp.show();
     rp.show();
     lp.move();
